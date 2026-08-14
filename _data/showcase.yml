@@ -1,0 +1,15 @@
+title: Project Showcase
+projects:
+  - key: atlas-grid
+    title: "Atlas Grid"
+    url: /showcase/atlas-grid/
+  - key: beacon-core
+    title: "Beacon Lab"
+    url: /showcase/beacon-core/
+  - key: drift-vision
+    title: "Drift Vision"
+    url: /showcase/drift-vision/
+  - key: orbit-notes
+    title: "Orbit Notes"
+    url: /showcase/orbit-notes/
+notes: "Archive links are maintained separately."
